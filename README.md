@@ -76,8 +76,8 @@
 
 ## Organization-Generated Data: Structured but often siloed
 
-*  Highly structured data
-
+* Highly structured data
+* Data Silos (no 1 silo has access to all information)
 
 * Commercial Transaction
   1. Detect correlated products
