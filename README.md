@@ -68,13 +68,17 @@
   <img src="https://i.imgur.com/Q1m7wPL.jpg" />
 </p>
 
-
 ## Big Data pipeline
-
 
 <p align="center">
   <img src="https://i.imgur.com/zmNm4xj.jpg" />
 </p>
 
+## Organization-Generated Data: Structured but often siloed
 
+* Commercial Transactions
+* Banking / Stock records
+* Credit Cards
+* E-Commerce
+* Medical Records
 
