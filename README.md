@@ -76,7 +76,9 @@
 
 ## Organization-Generated Data: Structured but often siloed
 
-* Commercial Transactions
+*  Highly structured data
+
+Commercial Transaction
   1. Detect correlated products
   2. Estimate demand
   3. Capture Fraudulent Activity  
@@ -84,3 +86,6 @@
 * Credit Cards
 * E-Commerce
 * Medical Records
+
+Commercial Transaction + Open Data + Analytics = Better predictions
+
