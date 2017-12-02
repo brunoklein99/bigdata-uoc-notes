@@ -102,3 +102,6 @@ Walmart
 
 Strucuted Data + Unstructured data + **Price Optimization** = Increased Revenue
 
+https://www.amazon.com/Operationalizing-Dynamic-Pricing-Models-Forecasting/dp/383492749X/ref=sr_1_1?ie=UTF8&qid=1512249499&sr=8-1&keywords=Dynamic+Pricing+Models
+
+Supply Chain Engineering: Useful Methods and Techniques
