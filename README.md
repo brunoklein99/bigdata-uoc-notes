@@ -23,3 +23,8 @@
 </p>
 
 * Interactive visualization: http://lod-cloud.net/versions/2017-08-22/lod.svg
+
+## Machine-Generated Data: It's Everywhere and There's a Lot!
+
+* Largest source of data
+* Internet of Things
