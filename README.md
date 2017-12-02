@@ -10,3 +10,4 @@
 
 * Big Data -> Better Models -> Higher Precision
 * Big Data has enabled personalized marketing
+* Big Data has enabled personalized healthcare
