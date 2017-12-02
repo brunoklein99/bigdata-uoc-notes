@@ -90,3 +90,10 @@
 
 Commercial Transaction + Open Data + Analytics = Better predictions
 
+Walmart
+
+* Twitter data
+* local events
+* local weather
+* in-store purchases
+* online clicks
