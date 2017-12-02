@@ -28,3 +28,8 @@
 
 * Largest source of data
 * Internet of Things
+* Real time problem detection
+  1. Customer Relations
+  2. Fraud Detection
+  3. System monitoring / control
+* SCADA (Supervisory Control and Data Acquisition)
