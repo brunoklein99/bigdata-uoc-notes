@@ -11,3 +11,15 @@
 * Big Data -> Better Models -> Higher Precision
 * Big Data has enabled personalized marketing
 * Big Data has enabled personalized healthcare
+
+## Where Does Big Data Come From?
+
+* Machines
+* People
+* Organizations
+
+<p align="center">
+  <img src="https://www.i-scoop.eu/wp-content/uploads/2016/07/The-traditional-data-information-knowledge-wisdom-pyramid-source-Mushon.gif" />
+</p>
+
+* Interactive visualization: http://lod-cloud.net/versions/2017-08-22/lod.svg
