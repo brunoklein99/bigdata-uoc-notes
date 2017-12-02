@@ -77,11 +77,10 @@
 ## Organization-Generated Data: Structured but often siloed
 
 * Commercial Transactions
+  1. Detect correlated products
+  2. Estimate demand
+  3. Capture Fraudulent Activity  
 * Banking / Stock records
 * Credit Cards
 * E-Commerce
 * Medical Records
-* Sale Transactional Data
-  1. Detect correlated products
-  2. Estimate demand
-  3. Capture Fraudulent Activity
