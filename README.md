@@ -78,7 +78,8 @@
 
 *  Highly structured data
 
-Commercial Transaction
+
+* Commercial Transaction
   1. Detect correlated products
   2. Estimate demand
   3. Capture Fraudulent Activity  
