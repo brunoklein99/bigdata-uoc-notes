@@ -80,8 +80,8 @@
 * Data Silos (no 1 silo has access to all information)
 
 * Commercial Transaction
-  1. Detect correlated products
-  2. Estimate demand
+  1. **Detect correlated products**
+  2. **Estimate demand**
   3. Capture Fraudulent Activity  
 * Banking / Stock records
 * Credit Cards
@@ -97,3 +97,8 @@ Walmart
 * local weather
 * in-store purchases
 * online clicks
+
+## The Key: Integrating Diverse Data
+
+Strucuted Data + Unstructured data + **Price Optimization** = Increased Revenue
+
