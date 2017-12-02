@@ -46,3 +46,35 @@
 |Facebook|30PB|
 |Twitter|100TB|
 |Spotify|64TB|
+
+### Hadoop
+
+* Handle big batches of distributed information
+
+### Spark / Apache Storm
+
+* Real time processing
+* Integrate with any database or store technology
+
+### Data Warehouse
+
+* Datasource integration to one place
+* Data gets extracted from different datasources and transformed and loaded in central database. This is called ETL
+* Used for structured data
+* Doesn't fit well with today's dynamic data world
+
+
+<p align="center">
+  <img src="https://i.imgur.com/Q1m7wPL.jpg" />
+</p>
+
+
+## Big Data pipeline
+
+
+<p align="center">
+  <img src="https://i.imgur.com/zmNm4xj.jpg" />
+</p>
+
+
+
