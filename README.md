@@ -160,3 +160,25 @@ Real time / Intermittent
 ### Value
 
 * How will Big Data benefit business
+
+## Data Science: Getting Value out of Big Data
+
+* Induce information from observations
+* Big Data + Analysis + Question = Insight
+* Data Science is not static, models are constantly getting better and new questions arise with new insights and data
+
+
+<p align="center">
+  <img src="https://i.imgur.com/9fmxxsH.jpg" />
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/67PCvf3.jpg" />
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/GJqJCzl.jpg" />
+</p>
+
