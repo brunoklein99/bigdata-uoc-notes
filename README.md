@@ -349,3 +349,9 @@ https://words.sdsc.edu/words-data-science/data-science
 * Visualizations as previous steps
 * Tables with results from more in depth analysis
 
+## Step 5: Turning Insights into Action
+
+* Something in the business process should change to remove bottleneck?
+* Data should be added to application to make it more accurate?
+* Should segment population into more groups for more effective targeted marketing?
+
