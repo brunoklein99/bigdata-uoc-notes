@@ -354,4 +354,5 @@ https://words.sdsc.edu/words-data-science/data-science
 * Something in the business process should change to remove bottleneck?
 * Data should be added to application to make it more accurate?
 * Should segment population into more groups for more effective targeted marketing?
+* Favorable Results? Revist data? Further Opportunities? Real time action?
 
