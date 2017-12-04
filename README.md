@@ -309,12 +309,16 @@ https://words.sdsc.edu/words-data-science/data-science
 ## Step 2-B: Pre-Processing Data
 
 * Clean + Transform to make it of quality
-1. Inconsistent values
-2. Duplicate records (constumer with same cpf)
-3. Missing values
-4. Invalid data (invalid CEP)
-5. Outliers
-6. Normalization of values
+* Inconsistent values
+* Duplicate records (constumer with same cpf)
+* Missing values
+* Invalid data (invalid CEP)
+* Outliers
+* Normalization of values
+* Feature selection
+1. Remove feature
+2. Combine features
+3. Add Feature (cyclic features (sin/cos))
 
 * Remove data records with missing values
 * Merge duplicate records (conflicting values)
