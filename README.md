@@ -235,6 +235,6 @@ https://words.sdsc.edu/words-data-science/data-science
 1. e.g. How can data be used to detect machine failure
 1. e.g. How can understand customer better to targeted marketing
 
-* Access the Situation
+* Access the Situation and context
 
 * Define goal / success criteria
