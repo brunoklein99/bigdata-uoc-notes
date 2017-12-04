@@ -109,3 +109,31 @@ Data integration = Reduce data complexity + Increate Data availability + Unify y
 https://www.amazon.com/Operationalizing-Dynamic-Pricing-Models-Forecasting/dp/383492749X/ref=sr_1_1?ie=UTF8&qid=1512249499&sr=8-1&keywords=Dynamic+Pricing+Models
 
 Supply Chain Engineering: Useful Methods and Techniques
+
+## V's for Big Data
+
+
+<p align="center">
+  <img src="http://www.ibmbigdatahub.com/sites/default/files/styles/xlarge-scaled/public/infographic_image/4-Vs-of-big-data.jpg?itok=4syrvSLX" />
+</p>
+
+### Volume
+
+* Vasts amount of data
+* Not just storage, we also need to be able to manage the data in a timely fashion. For processing, for instance.
+
+### Variety
+
+* Different modals
+
+### Velocity
+
+* Speed of generation and pace from A to B
+
+### Veracity
+
+* Truthfullness and trustworthniness of data
+
+### Value
+
+* How will Big Data benefit business
