@@ -121,6 +121,7 @@ Supply Chain Engineering: Useful Methods and Techniques
 
 * Vasts amount of data
 * Not just storage, we also need to be able to manage the data in a timely fashion. For processing, for instance.
+* Exponential growth
 
 ### Variety
 
