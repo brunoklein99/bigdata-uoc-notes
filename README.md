@@ -317,4 +317,4 @@ https://words.sdsc.edu/words-data-science/data-science
 
 * Remove data records with missing values
 * Merge duplicate records (conflicting values)
-* Invalid values -> Best estimate
+* Invalid values -> Best estimate (missing employee age, guess from how long work)
