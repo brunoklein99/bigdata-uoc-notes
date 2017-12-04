@@ -125,7 +125,21 @@ Supply Chain Engineering: Useful Methods and Techniques
 
 ### Variety
 
-* Different modals
+* Structural variety
+
+Formats and models
+
+*  Media variety
+
+Medium in which data get delivered
+
+* Semantic variety
+
+How to interpret and operate on data
+
+* Availability Variations
+
+Real time / Intermittent
 
 ### Velocity
 
