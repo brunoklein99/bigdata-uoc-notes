@@ -298,6 +298,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * Correlation graphs
 * General trends (e.g. Sales prices increases every year)
 * Mean, Median, Standard Deviation
+* Visualization (heatmap, histograms, boxplots, scatter (correlation))
 
 <p align="center">
   <img src="http://cdn.pythagorasandthat.co.uk/wp-content/uploads/2014/07/correlation-1-1024x675.jpg" />
