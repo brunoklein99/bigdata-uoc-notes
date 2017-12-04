@@ -327,3 +327,14 @@ https://words.sdsc.edu/words-data-science/data-science
 * Remove outliers, if not important for context or specific task
 
 **All of the above needs domain knowledge to be done correctly**
+
+## Step 3: Analyzing Data
+
+* Classification
+* Regression
+* Clustering
+* Graph Analytics
+* Association Analysis
+1. Set of rules to come up with association with items or events. e.g. when they occur together
+2. **Market basket analysis** (customer behavior)
+
