@@ -150,6 +150,7 @@ Real time / Intermittent
 ### Veracity
 
 * Truthfullness and trustworthniness of data
+* Quality
 
 ### Value
 
