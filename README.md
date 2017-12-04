@@ -300,6 +300,8 @@ https://words.sdsc.edu/words-data-science/data-science
 * Mean, Median, Standard Deviation
 * Visualization (heatmap, histograms, boxplots, scatter (correlation))
 
+**Data Exploration -> Data Understanding -> Informed Analysis**
+
 <p align="center">
   <img src="http://cdn.pythagorasandthat.co.uk/wp-content/uploads/2014/07/correlation-1-1024x675.jpg" />
 </p>
