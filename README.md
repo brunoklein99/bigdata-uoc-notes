@@ -152,6 +152,11 @@ Real time / Intermittent
 * Truthfullness and trustworthniness of data
 * Quality
 
+### Valence
+
+* How much the data is connected among it self
+* The valence increases over time (social network)
+
 ### Value
 
 * How will Big Data benefit business
