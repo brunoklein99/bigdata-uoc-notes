@@ -288,3 +288,16 @@ https://words.sdsc.edu/words-data-science/data-science
 * Data can come from databases (SQL and NoSQL)
 * Data can come from Text files
 * Data can come from websites and REST APIs
+
+## Step 2-A: Exploring Data
+
+* Specific characteristics of data
+* Correlation
+* Outliers
+* Without this step, can't use data effectively
+* Correlation graphs
+* General trends (e.g. Increases every year)
+
+<p align="center">
+  <img src="http://cdn.pythagorasandthat.co.uk/wp-content/uploads/2014/07/correlation-1-1024x675.jpg" />
+</p>
