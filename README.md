@@ -226,3 +226,5 @@ Real time / Intermittent
 1. Hadoop or other
 * Programmability
 1. Reusable / Reproducable / Middleware
+
+https://words.sdsc.edu/words-data-science/data-science
