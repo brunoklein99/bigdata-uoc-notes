@@ -213,3 +213,13 @@ Real time / Intermittent
 
 * Action
 
+## P's of Data Science
+
+* People
+1. Data Science team and project stakeholders
+* Purpose
+1. Focus on the question, not the technology
+* Process
+1. Process to iterate on, people can communicate and work together.
+* Platforms
+* Programmability
