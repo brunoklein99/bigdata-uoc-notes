@@ -172,13 +172,25 @@ Real time / Intermittent
   <img src="https://i.imgur.com/9fmxxsH.jpg" />
 </p>
 
-
 <p align="center">
   <img src="https://i.imgur.com/67PCvf3.jpg" />
 </p>
-
 
 <p align="center">
   <img src="https://i.imgur.com/GJqJCzl.jpg" />
 </p>
 
+## What Data Science is made of
+
+
+<p align="center">
+  <img src="https://i.imgur.com/JlK7cDe.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/3BfA9jm.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/9jLykfm.jpg" />
+</p>
