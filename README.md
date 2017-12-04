@@ -145,6 +145,8 @@ Real time / Intermittent
 
 * Speed of generation and pace from A to B
 
+* Real time over Batch processing
+
 ### Veracity
 
 * Truthfullness and trustworthniness of data
