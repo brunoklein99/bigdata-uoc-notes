@@ -319,3 +319,5 @@ https://words.sdsc.edu/words-data-science/data-science
 * Merge duplicate records (conflicting values)
 * Invalid values -> Best estimate (missing employee age, guess from how long work)
 * Remove outliers, if not important for context or specific task
+
+**All of the above needs domain knowledge to be done correctly**
