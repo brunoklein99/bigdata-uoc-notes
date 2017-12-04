@@ -334,6 +334,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * Regression
 * Clustering
 * Graph Analytics
+1. Use graph structure to find connections between entities
 * Association Analysis
 1. Set of rules to come up with association with items or events. e.g. when they occur together
 2. **Market basket analysis** (customer behavior)
