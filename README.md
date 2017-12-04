@@ -238,3 +238,54 @@ https://words.sdsc.edu/words-data-science/data-science
 * Access the Situation and context
 
 * Define goal / success criteria
+
+## Steps in the Data Science Process
+
+1. Acquire data
+
+* Finding data
+* Retrieve data
+* Query data
+
+2. Prepare
+
+* Explore data
+* Pre process
+
+3. Explore data
+
+* Look the data
+* Understand nature of data
+* Preliminary analysis
+
+4. Pre-process
+
+* Clean
+* Integrate
+* Package into format
+
+5. Analyse Data
+
+* Choose analytical approach
+* Build models
+
+6. Communicate Results
+
+* Reports
+* Results
+
+7. Apply results
+
+**All of the above is iterative and may be repeated**
+
+## Step 1: Acquiring Data
+
+* Leave no stone unturned to find data
+* Make use of all data
+* Data comes from all places, local and remote
+* Data comes in different velocities
+---
+* Data can come from databases (SQL and NoSQL)
+* Data can come from Text files
+* Data can come from websites and REST APIs
+* 
