@@ -314,3 +314,7 @@ https://words.sdsc.edu/words-data-science/data-science
 3. Missing values
 4. Invalid data (invalid CEP)
 5. Outliers
+
+* Remove data records with missing values
+* Merge duplicate records (conflicting values)
+* Invalid values -> Best estimate
