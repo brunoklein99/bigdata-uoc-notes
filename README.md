@@ -339,3 +339,11 @@ https://words.sdsc.edu/words-data-science/data-science
 1. Set of rules to come up with association with items or events. e.g. when they occur together
 2. **Market basket analysis** (customer behavior)
 
+## Step 4: Communicating Results
+
+* What are the main results
+* What added value to these results provide / what can the model add to the application
+* Results vs Success criteria at the beggining of the project
+* Aggregate facts to back the above
+* Results could be puzzling or divergent from expectation
+* Visualizations as previous steps
