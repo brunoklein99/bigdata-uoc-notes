@@ -182,7 +182,6 @@ Real time / Intermittent
 
 ## What Data Science is made of
 
-
 <p align="center">
   <img src="https://i.imgur.com/JlK7cDe.jpg" />
 </p>
@@ -202,8 +201,13 @@ Real time / Intermittent
 1. High level goals
 2. What data to collect
 3. Maybe start with objectives and derive which data to get to reach them
+4. Must have support from company and stakeholders
 
 * Policy
+
+1. Privacy and lifetime
+2. Curation and quality
+3. Interoperability and regulation
 
 * Plan
 
