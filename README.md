@@ -319,6 +319,7 @@ https://words.sdsc.edu/words-data-science/data-science
 1. Remove feature (correlated features can be removed)
 2. Combine features
 3. Add Feature (cyclic features (sin/cos))
+* Dimensionality Reduction (PCA)
 
 * Remove data records with missing values
 * Merge duplicate records (conflicting values)
