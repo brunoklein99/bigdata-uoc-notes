@@ -305,3 +305,12 @@ https://words.sdsc.edu/words-data-science/data-science
 <p align="center">
   <img src="http://cdn.pythagorasandthat.co.uk/wp-content/uploads/2014/07/correlation-1-1024x675.jpg" />
 </p>
+
+## Step 2-B: Pre-Processing Data
+
+* Clean + Transform to make it of quality
+1. Inconsistent values
+2. Duplicate records (constumer with same cpf)
+3. Missing values
+4. Invalid data (invalid CEP)
+5. Outliers
