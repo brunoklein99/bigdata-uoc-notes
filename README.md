@@ -228,3 +228,13 @@ Real time / Intermittent
 1. Reusable / Reproducable / Middleware
 
 https://words.sdsc.edu/words-data-science/data-science
+
+## Asking the Right Questions
+
+* Define the problem
+1. e.g. How can data be used to detect machine failure
+1. e.g. How can understand customer better to targeted marketing
+
+* Access the Situation
+
+* Define goal / success criteria
