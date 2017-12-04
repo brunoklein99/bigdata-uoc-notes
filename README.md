@@ -221,5 +221,8 @@ Real time / Intermittent
 1. Focus on the question, not the technology
 * Process
 1. Process to iterate on, people can communicate and work together.
+2. Acquire -> Prepare -> Analyse -> Report -> Act
 * Platforms
+1. Hadoop or other
 * Programmability
+1. Reusable / Reproducable / Middleware
