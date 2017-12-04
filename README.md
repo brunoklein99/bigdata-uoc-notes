@@ -288,4 +288,3 @@ https://words.sdsc.edu/words-data-science/data-science
 * Data can come from databases (SQL and NoSQL)
 * Data can come from Text files
 * Data can come from websites and REST APIs
-* 
