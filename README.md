@@ -316,7 +316,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * Outliers
 * Normalization of values
 * Feature selection
-1. Remove feature
+1. Remove feature (correlated features can be removed)
 2. Combine features
 3. Add Feature (cyclic features (sin/cos))
 
