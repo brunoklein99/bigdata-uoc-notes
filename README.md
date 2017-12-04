@@ -194,3 +194,18 @@ Real time / Intermittent
 <p align="center">
   <img src="https://i.imgur.com/9jLykfm.jpg" />
 </p>
+
+## Building a Big Data Strategy
+
+* Aim
+
+1. High level goals
+2. What data to collect
+3. Maybe start with objectives and derive which data to get to reach them
+
+* Policy
+
+* Plan
+
+* Action
+
