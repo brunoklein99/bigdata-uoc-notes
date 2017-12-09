@@ -383,3 +383,28 @@ https://words.sdsc.edu/words-data-science/data-science
 * Fault Tolerance
 * Optimized for different data types
 * Facilitate a shared environment
+
+<p align="center">
+  <img src="https://i.imgur.com/maMD3Fa.png" />
+</p>
+
+### Map Reduce
+
+* Map = apply()
+* Reduce = Summarize()
+
+### Pig
+
+* Dataflow scripting
+
+### Hive
+
+* SQL-like queries
+
+### Giraph
+
+* Process graphs
+
+### Storm, Spark, Flink
+
+* In memory, realtime processing
