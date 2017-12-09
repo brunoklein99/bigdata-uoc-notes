@@ -431,3 +431,9 @@ https://words.sdsc.edu/words-data-science/data-science
 * Not a replacement for database
 * Random Data Access
 * Task Level Parallelism
+
+## Cloud
+
+<p align="center">
+  <img src="https://i.imgur.com/Sl7NVma.png" />
+</p>
