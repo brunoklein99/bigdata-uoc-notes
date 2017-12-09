@@ -278,7 +278,7 @@ https://words.sdsc.edu/words-data-science/data-science
 
 **All of the above is iterative and may be repeated**
 
-## Step 1: Acquiring Data
+### Step 1: Acquiring Data
 
 * Leave no stone unturned to find data
 * Make use of all data
@@ -289,7 +289,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * Data can come from Text files
 * Data can come from websites and REST APIs
 
-## Step 2-A: Exploring Data
+### Step 2-A: Exploring Data
 
 * Specific characteristics of data
 * Correlation
@@ -306,7 +306,7 @@ https://words.sdsc.edu/words-data-science/data-science
   <img src="http://cdn.pythagorasandthat.co.uk/wp-content/uploads/2014/07/correlation-1-1024x675.jpg" />
 </p>
 
-## Step 2-B: Pre-Processing Data
+### Step 2-B: Pre-Processing Data
 
 * Clean + Transform to make it of quality
 * Inconsistent values
@@ -328,7 +328,7 @@ https://words.sdsc.edu/words-data-science/data-science
 
 **All of the above needs domain knowledge to be done correctly**
 
-## Step 3: Analyzing Data
+### Step 3: Analyzing Data
 
 * Classification
 * Regression
@@ -339,7 +339,7 @@ https://words.sdsc.edu/words-data-science/data-science
 1. Set of rules to come up with association with items or events. e.g. when they occur together
 2. **Market basket analysis** (customer behavior)
 
-## Step 4: Communicating Results
+### Step 4: Communicating Results
 
 * What are the main results
 * What added value to these results provide / what can the model add to the application
@@ -349,7 +349,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * Visualizations as previous steps
 * Tables with results from more in depth analysis
 
-## Step 5: Turning Insights into Action
+### Step 5: Turning Insights into Action
 
 * Something in the business process should change to remove bottleneck?
 * Data should be added to application to make it more accurate?
