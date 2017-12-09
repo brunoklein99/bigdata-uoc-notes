@@ -356,3 +356,8 @@ https://words.sdsc.edu/words-data-science/data-science
 * Should segment population into more groups for more effective targeted marketing?
 * Favorable Results? Revist data? Further Opportunities? Real time action?
 
+## Basic Scalable Computing Concepts
+
+* Parallel Computer - Several nodes with specifialized capabilities
+* Commodity Cluster - Several nodes less specialized than parallel computers
+* Data Parallelism - Jobs that share nothing can word on different parts of the dataset
