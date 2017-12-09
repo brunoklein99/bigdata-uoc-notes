@@ -361,3 +361,18 @@ https://words.sdsc.edu/words-data-science/data-science
 * Parallel Computer - Several nodes with specifialized capabilities
 * Commodity Cluster - Several nodes less specialized than parallel computers
 * Data Parallelism - Jobs that share nothing can word on different parts of the dataset
+
+## Programming Models for Big Data
+
+1. Split large volumes of data
+2. Access to data should be fast
+3. Distribute computations to nodes
+4. Replicate data partitions
+5. Enable adding new resources
+6. Optimized for specific data types
+  * Document
+  * Table
+  * Key-value
+  * Graph
+  * Multimedia
+  * Stream
