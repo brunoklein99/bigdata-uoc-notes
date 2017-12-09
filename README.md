@@ -376,3 +376,10 @@ https://words.sdsc.edu/words-data-science/data-science
   * Graph
   * Multimedia
   * Stream
+
+## Hadoop
+
+* Scalability
+* Fault Tolerance
+* Optimized for different data types
+* Facilitate a shared environment
