@@ -414,3 +414,7 @@ https://words.sdsc.edu/words-data-science/data-science
 * HBase
 * Cassandra
 * MongoDB
+
+### Zookeeper
+
+* Configuration and management
