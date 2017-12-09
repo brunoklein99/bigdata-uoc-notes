@@ -418,3 +418,16 @@ https://words.sdsc.edu/words-data-science/data-science
 ### Zookeeper
 
 * Configuration and management
+
+### When to Use Hadoop
+
+* Future anticipated data growth
+* Long term availability of data
+
+### When not to use Hadoop
+
+* Small dataset
+* Advanced Algorithms
+* Not a replacement for database
+* Random Data Access
+* Task Level Parallelism
