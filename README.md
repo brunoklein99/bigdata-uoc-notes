@@ -408,3 +408,9 @@ https://words.sdsc.edu/words-data-science/data-science
 ### Storm, Spark, Flink
 
 * In memory, realtime processing
+
+### Key-vakues / Sparse tables
+
+* HBase
+* Cassandra
+* MongoDB
