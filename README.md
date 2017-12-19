@@ -437,3 +437,21 @@ https://words.sdsc.edu/words-data-science/data-science
 <p align="center">
   <img src="https://i.imgur.com/Sl7NVma.png" />
 </p>
+
+# Big Data Modeling and Management Systems
+
+## Data Management
+
+* How do we ingest the data?
+
+* Where and how do we store it?
+
+* How can we ensure data quality?
+
+* What operations do we perform on the data?
+
+* How can these operations be efficient?
+
+* How do we scale up data volume, variety, velocity and acess?
+
+* How do we keep the data secure
